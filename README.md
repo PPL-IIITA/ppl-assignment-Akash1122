@@ -1,3 +1,14 @@
-# ppl-assignment-Akash1122
-ppl-assignment-Akash1122 created by GitHub Classroom
-IIT2015084 - Akash Kumar
+# Project info
+Akash kumar
+IIT2015084
+
+
+### Tested on
+Linux ,eclipse IDE
+
+Command prompt instaructions
+
+```
+\ques1\bin>java bin.Ppl_assign
+```
+
